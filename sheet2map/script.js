@@ -53,7 +53,6 @@ var changeBackground = function changeBackground() {
 
     for (var j = 0; j < classes.length; j++) {
       var cls = classes[j];
-      console.log(cls);
 
       if (cls.indexOf("colorHex") === 0) {
         allClasses.push(cls);
