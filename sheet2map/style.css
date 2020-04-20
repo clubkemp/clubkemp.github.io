@@ -9,8 +9,8 @@
 
 .popup span {
     display: block;
-    margin-bottom: 20px;
-    color: grey;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .leaflet-marker-icon{
